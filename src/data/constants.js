@@ -291,8 +291,8 @@ export const projects = [
       "Tailwind CSS",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    github: "https://github.com/kartik6314/GiGe-main",
+    webapp: "https://github.com/kartik6314/GiGe-main",
   },
   {
     id: 0,
@@ -342,8 +342,7 @@ export const projects = [
     github: "https://github.com/kartik6314/Restaurant-Menu",
     webapp: "https://reactrestaurant-menu.netlify.app",
   },
-  {
-    id: 10,
+  {    id: 10,
     title: "Dice Roll Game",
     date: "",
     description:
