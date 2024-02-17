@@ -327,7 +327,7 @@ export const projects = [
     tags: ["React.js", "JavaScript", "Html", "CSS", "Figma"],
     category: "web app",
     github: "https://github.com/kartik6314/NIKE-Brand-Page",
-    webapp: "https://github.com/kartik6314/NIKE-Brand-Page",
+    webapp: "https://react-nike-brand-page.netlify.app",
   },
   {
     id: 2,
@@ -340,7 +340,7 @@ export const projects = [
     tags: ["React.js", "JavaScript", "Html", "CSS", "Figma"],
     category: "web app",
     github: "https://github.com/kartik6314/Restaurant-Menu",
-    webapp: "https://github.com/kartik6314/Restaurant-Menu",
+    webapp: "https://reactrestaurant-menu.netlify.app",
   },
   {
     id: 10,
@@ -353,7 +353,7 @@ export const projects = [
     tags: ["React.js", "JavaScript", "Html", "CSS", "Figma"],
     category: "web app",
     github: "https://github.com/kartik6314/Dice-Roll-Game",
-    webapp: "https://github.com/kartik6314/Dice-Roll-Game",
+    webapp: "https://react-dice-roll-game.netlify.app",
   },
   {
     id: 3,
@@ -365,7 +365,7 @@ export const projects = [
     tags: ["React.js", "JavaScript", "Html", "CSS", "Figma"],
     category: "web app",
     github: "https://github.com/kartik6314/Contact-Us-Page",
-    webapp: "https://github.com/kartik6314/Contact-Us-Page",
+    webapp: "https://contact-us-page-react.netlify.app",
   },
   // {
   //   id: 4,
