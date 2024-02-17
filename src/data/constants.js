@@ -270,7 +270,7 @@ export const projects = [
     tags: ["React Js", "JavaScript", "Html", "CSS", "Figma"],
     category: "web app",
     github: "https://github.com/kartik6314/Coder-s-Bank",
-    webapp: "https://github.com/kartik6314/Coder-s-Bank",
+    webapp: "https://main--codersbank.netlify.app/",
   },
   {
     id: 9,
