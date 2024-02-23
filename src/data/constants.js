@@ -266,11 +266,11 @@ export const projects = [
     description:
       "Developed a responsive real estate project, constructed on the robust MERN stack. Utilizing a myriad of libraries like Framer Motion, MongoDB, Cloudinary, Auth0, and Mantine UI, we've engineered an immersive platform providing a seamless user experience and comprehensive functionality catering to both buyers and sellers.",
     image:
-      "https://github.com/kartik6314/Homyz/assets/70054160/13915519-9776-46ae-a022-30af169f8219",
+      "https://github.com/kartik6314/Homyz/assets/70054160/bc196eb7-0733-42fa-a73d-8d6a8f906055",
     tags: ["React Js", "Auth0", "MongoDB", "Node JS", "MERN"],
     category: "web app",
     github: "https://github.com/kartik6314/Homyz",
-    webapp: "https://homyz-chi.vercel.app/",
+    webapp: "https://homyz-o9ra.vercel.app/",
   },
   {
     id: 11,
