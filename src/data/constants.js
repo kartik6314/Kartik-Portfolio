@@ -260,6 +260,18 @@ export const education = [
 
 export const projects = [
   {
+    id: 4,
+    title: "Homyz",
+    date: "",
+    description:
+      "Developed a responsive real estate project, constructed on the robust MERN stack. Utilizing a myriad of libraries like Framer Motion, MongoDB, Cloudinary, Auth0, and Mantine UI, we've engineered an immersive platform providing a seamless user experience and comprehensive functionality catering to both buyers and sellers.",
+    image: "https://github.com/kartik6314/Homyz",
+    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    category: "web app",
+    github: "https://github.com/kartik6314/Homyz",
+    webapp: "https://homyz-chi.vercel.app/",
+  },
+  {
     id: 11,
     title: "Coder’s Bank",
     date: "",
@@ -342,7 +354,8 @@ export const projects = [
     github: "https://github.com/kartik6314/Restaurant-Menu",
     webapp: "https://reactrestaurant-menu.netlify.app",
   },
-  {    id: 10,
+  {
+    id: 10,
     title: "Dice Roll Game",
     date: "",
     description:
@@ -366,19 +379,7 @@ export const projects = [
     github: "https://github.com/kartik6314/Contact-Us-Page",
     webapp: "https://contact-us-page-react.netlify.app",
   },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
+
   // {
   //   id: 5,
   //   title: "Todo Web App",
