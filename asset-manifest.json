@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kartik-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/kartik-portfolio/static/js/main.e5009588.js",
+    "main.js": "/kartik-portfolio/static/js/main.fa212f6b.js",
     "static/media/HeroImage.jpg": "/kartik-portfolio/static/media/HeroImage.0d20dea5d65cbcc9e5d9.jpg",
     "index.html": "/kartik-portfolio/index.html",
     "main.bf538fe7.css.map": "/kartik-portfolio/static/css/main.bf538fe7.css.map",
-    "main.e5009588.js.map": "/kartik-portfolio/static/js/main.e5009588.js.map"
+    "main.fa212f6b.js.map": "/kartik-portfolio/static/js/main.fa212f6b.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.e5009588.js"
+    "static/js/main.fa212f6b.js"
   ]
 }
